@@ -1,4 +1,4 @@
-# Study case applying a FIGMA design with React.js, CSS BEM model, complex gradients and complex flex & grid functionalities.
+# Case study applying a FIGMA design with React.js, CSS BEM model, complex gradients and complex flex & grid functionalities.
 
 # Getting Started with Create React App
 
